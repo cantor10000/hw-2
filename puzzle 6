@@ -1,5 +1,4 @@
 right();
-var A = getColor();
 function moveUp(){
   if (getColor()=="red"){
     up();
