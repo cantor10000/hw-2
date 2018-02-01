@@ -2,7 +2,6 @@
 
 right();
 right();
-var A = getColor();
 if (getColor() == "blue") {
   down();
 } 
